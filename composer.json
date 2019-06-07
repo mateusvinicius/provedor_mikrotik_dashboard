@@ -1,0 +1,10 @@
+{
+    "name": "administrador/dashboard",
+    "authors": [
+        {
+            "name": "Mateus Vinicius",
+            "email": "mateusvinicios7@gmail.com"
+        }
+    ],
+    "require": {}
+}
