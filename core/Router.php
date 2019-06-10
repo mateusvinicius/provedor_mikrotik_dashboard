@@ -20,9 +20,12 @@ class Router{
             if(!self::val_method($method))
                 throw new \Exception("Method not valid",1);
 
-             [$router,$controller] = $arg;
+                [$router,$controller] = $arg;
 
-             print_r($controller);
+
+
+
+             
 
 
         }catch(\Exception $e){
