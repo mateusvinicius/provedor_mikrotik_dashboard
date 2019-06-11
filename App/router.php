@@ -6,7 +6,7 @@ use Core\Router;
 
 
 
-Router::get("/adsasdasd","Home@index");
+Router::get("/adsasdasd","HomeController@index");
 
 
 
